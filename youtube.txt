@@ -240,3 +240,8 @@ r1---sn-4gxx-25gel.googlevideo.com
 r9---sn-4gxx-25gel.googlevideo.com
 r9---sn-4gxx-25gy.googlevideo.com
 r6---sn-4g5e6nes.googlevideo.com
+127.0.0.1 s0.2mdn.net
+127.0.0.1 googleads.g.doubleclick.net
+127.0.0.1 ad.doubleclick.net
+127.0.0.1 files.adform.net
+127.0.0.1 secure-ds.serving-sys.com
